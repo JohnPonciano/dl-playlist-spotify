@@ -21,6 +21,7 @@ Spotify client id and secret
 Spotify account name and playlist id. (Playlist id is the alphanumeric string following /playlist/)
 
 Youtube API Key
+https://console.developers.google.com/
 
 Youtube-dl installed on your machine 
 http://ytdl-org.github.io/youtube-dl/download.html
