@@ -1,5 +1,30 @@
 # dl-playlist-spotify
 
+Spodl
+A tool which can be ran from the command line to download a Spotify playlist through Youtube, via youtube-dl.
+
+Note: This is for educational purposes and I am not responsible for those who use the tool.
+
+Installation
+git clone https://github.com/adhorrig/spodl.git
+cd spodl
+npm install
+To install spodl globally, run:
+
+npm install -g
+
+
+What you need
+
+Spotify client id and secret
+
+Spotify account name and playlist id. (Playlist id is the alphanumeric string following /playlist/)
+
+Youtube API Key
+
+Youtube-dl installed on your machine 
+
+
 
 
 spodl spotify_account_name spotify_playlist_id
